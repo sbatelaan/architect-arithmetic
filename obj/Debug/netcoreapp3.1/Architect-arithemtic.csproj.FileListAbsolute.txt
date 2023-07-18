@@ -1,0 +1,14 @@
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.csproj.AssemblyReference.cache
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.AssemblyInfoInputs.cache
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.AssemblyInfo.cs
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.csproj.CoreCompileInputs.cache
+C:\Users\mbate\Projects\Architect-Arithmetic\bin\Debug\netcoreapp3.1\Architect-arithemtic.exe
+C:\Users\mbate\Projects\Architect-Arithmetic\bin\Debug\netcoreapp3.1\Architect-arithemtic.deps.json
+C:\Users\mbate\Projects\Architect-Arithmetic\bin\Debug\netcoreapp3.1\Architect-arithemtic.runtimeconfig.json
+C:\Users\mbate\Projects\Architect-Arithmetic\bin\Debug\netcoreapp3.1\Architect-arithemtic.runtimeconfig.dev.json
+C:\Users\mbate\Projects\Architect-Arithmetic\bin\Debug\netcoreapp3.1\Architect-arithemtic.dll
+C:\Users\mbate\Projects\Architect-Arithmetic\bin\Debug\netcoreapp3.1\Architect-arithemtic.pdb
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.dll
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.pdb
+C:\Users\mbate\Projects\Architect-Arithmetic\obj\Debug\netcoreapp3.1\Architect-arithemtic.genruntimeconfig.cache
