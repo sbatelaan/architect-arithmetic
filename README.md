@@ -1,7 +1,5 @@
 # architect-arithmetic
 
-<<<<<<< HEAD
-=======
 ## About
 
 Simple project to get used to synatx and creating methods and using built in Math() methods. In this project, I took a basic blueprint and totaled the area. Then I used the material cost to calculate the total cost of the building. 
@@ -13,4 +11,4 @@ Simple project to get used to synatx and creating methods and using built in Mat
 
 
 ![teotihuacan-complete](https://github.com/sbatelaan/architect-arithmetic/assets/119352363/5ff13344-89ea-4e2f-be9a-a23a74a1c65d)
->>>>>>> d0108186cdf797d91e2344b471683d3849fecfb9
+
